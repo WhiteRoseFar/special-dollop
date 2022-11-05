@@ -10,6 +10,12 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# File-based project format
+out/
+
+#IDEA
+.idea
+
 # Package Files #
 *.jar
 *.war
